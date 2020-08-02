@@ -22,6 +22,7 @@ public class Constructor1 {
 		System.out.println("This is a four parameterized constructor");
 	}
 	public static void main(String[] args) {
+		@SuppressWarnings("unused")
 		Constructor1 obj=new Constructor1(12,43,56);
 		}
 }
