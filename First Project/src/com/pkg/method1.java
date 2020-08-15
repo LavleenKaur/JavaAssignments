@@ -1,5 +1,5 @@
 
-package pkg1;
+package com.pkg;
 
 public class method1 {
 

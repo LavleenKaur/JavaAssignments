@@ -1,4 +1,4 @@
-package pkg1;
+package com.pkg;
 
 public class ConsSuperChild extends ConsSuper{
 	public ConsSuperChild()

@@ -1,4 +1,4 @@
-package pkg1;
+package com.pkg;
 
 import java.util.Scanner;
 

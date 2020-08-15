@@ -1,4 +1,4 @@
-package pkg1;
+package com.pkg;
 
 public class SuperMethodChild extends SuperMethod{
 	public void ConsChild()
