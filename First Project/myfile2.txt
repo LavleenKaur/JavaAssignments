@@ -1,0 +1,3 @@
+I am writing data to the text file
+I am writing second line to the text file
+New data

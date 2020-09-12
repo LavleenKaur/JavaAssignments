@@ -1,0 +1,6 @@
+Assignment------------------------->
+Create a method named ReadData and pass the row No and that method will read the data of that particular row.
+Create a method named ReadDataofRange & pass the initial row no and end row no, that method will read the data of that particular range.
+Create a method named WriteData and pass the rowCount and that method will write till that rowCount and you have to take the data from user, that should be write in the file.
+Create a method named WriteDataInaRange and pass the initialrowCount, endrowCount and that method will write in that range and you have to take the data from the user, that should be write in the file (2,7) while calling the method should write from 2nd to 7th line and first line will be blank.
+Read from file1 and write that data into file2(Copy---paste).
